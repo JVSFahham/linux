@@ -1,0 +1,13 @@
+learning lixux - Day 01
+
+cd - change directory
+ls - list files in a directory
+ls -la - list all files in a directory
+mkdir - make a new directory 
+rm - remove an empty file or directory
+mv - move or rename files or directories
+cat - vizualize the content of a file or directory (up/down)
+tac - vizualize the content of a file or directory (down/up)
+vi - text editor
+:wq - write and quit
+
